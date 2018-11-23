@@ -1,0 +1,48 @@
+---
+title: A New Love
+layout: post
+date: '2018-11-22 01:18:08'
+categories: first_post
+comments: true
+---
+
+<center><img alt="love2D-logo" style="border-radius:50%;"  src="/images/post/2018-11-22/love.png" width="200px" height="200px" /></center>
+
+<blockquote>I always tought to start a game,</blockquote>
+
+<p>I always tought to start a game, I often thought to start a devLog and I sometimes tought to start a github. Lately, stopped a week at home by a bronchitis, I wondered how to connect these three ideas togheter  and in no time  I decided to put some love into gaming (get used to the puns) and start a project to learn and test my skills.</p>
+
+<p>Before boring you more with a <strong>TLTR</strong> and since it's an old tradition in the programming field, I'll leave you with an Hello World in the language+library I'm gonna use for the creation of... well, you' will discover it ;)
+</p>
+```
+-- main.lua --
+
+--Dimensions of the window
+WIN_HEIGHT = 800
+WIN_WIDTH = 480
+--variables for printf
+LIMIT = 300 -- limit of width in px
+ALIGN = 'center'
+
+CENTERX = WIN_WIDTH/2-LIMIT/2
+CENTERY = WIN_HEIGHT/2-LIMIT/2
+
+--love functions:
+
+function love.load() 
+--set the windows property
+  love.window.setTitle("Hello World")
+  love.window.setMode(WIN_WIDTH, WIN_HEIGHT, {resizable=true, vsync=false, centered=true})
+end
+
+function love.update()
+--intentionally empty
+end
+
+function love.draw()
+
+  love.graphics.setNewFont(36) --change the font size
+  love.graphics.printf("Hello Github! <3", CENTERX, CENTERY, LIMIT, ALIGN)
+end
+```
+{: .language-lua}
