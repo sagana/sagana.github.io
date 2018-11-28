@@ -55,7 +55,7 @@ My suggestion? Godot.  It has all of these qualities. And it's pretty intuitive 
 </p>
 
 <h2>The second question: and now... what do I do?</h2>
-<img width="300px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Pong.png" alt="pong game screen"/>
+<center><img width="400px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Pong.png" alt="pong game screen"/></center>
 <p>
 	The usual suggestion would be, start with some easy, well known games: pong, breakout, space invaders, tris, etc. And this is usually a good advice, because in this way you'll learn some tricks that will help you in the future. But if you are like me it can be boring to just follow some tutorial and get these games done. So my suggestion is: always put some of you into this projects. </p>
 <p>
