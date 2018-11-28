@@ -55,16 +55,20 @@ My suggestion? Godot.  It has all of these qualities. And it's pretty intuitive 
 </p>
 
 <h2>The second question: and now... what do I do?</h2>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Pong.png" alt="pong game screen"/>
 <p>
-	The usual suggestion would be, start with some easy, well known games: pong, breakout, space invaders, tris, etc. And this is usually a good advice, because in this way you'll learn some tricks that will help you in the future. But if you are like me <br>
-	it can be boring to just follow some tutorial and get these games done. So my suggestion is: always put some of you into this projects. Pong is boring? Put an explosive bomb instead of the classic ball that gets warm  the more the players bounce it
+	The usual suggestion would be, start with some easy, well known games: pong, breakout, space invaders, tris, etc. And this is usually a good advice, because in this way you'll learn some tricks that will help you in the future. But if you are like me it can be boring to just follow some tutorial and get these games done. So my suggestion is: always put some of you into this projects. </p>
+<p>
+	Pong is boring? Put an explosive bomb instead of the classic ball that gets warm  the more the players bounce it
 	(you can just make it more red every time it bounce and explode on the paddle once it gets completely red, destroying it and giving the adversary a point). Space invaders is plain and easy and xenophobic (poor aliens, what did they do to deserve such a fate?) change
-	the aliens with something you hate and have double the fun destroying it. <br>It take just this to make it funnier. Just don't start with a 3D MMO or a vast metroidvania, there's plenty of reasons why to be found on the internet.
+	the aliens with something you hate and have double the fun destroying it.</p>
+<p>
+	It take just this to make it funnier. Just don't start with a 3D MMO or a vast metroidvania, there's plenty of reasons why to be found on the internet.
 </p>
 <h2>A last advice: If you can, comment it</h2>
 <p>
-	This becomes more obvious the more you program/create a game. The need of comments is ofter undervalued. Take your time to write observations for every new things you do (unless his purpose is obvious like int health = 10 //silly comment about assigning 10 points to health) 
+	This becomes more obvious the more you program/create a game. The need of comments is ofter undervalued. Take your time to write observations for every new things you do. 
+	Unless his purpose is obvious like ... int health = 10 //silly comment about assigning 10 points to health...
 	and create a TODO list of things to do. Try to reduce your task to the atom, the littler the task, the more you'll feel accomplished after finishing four or five a day. You can find good examples of your language/engine comment etiquette online, or you can use <a href="https://www.cs.utah.edu/~germain/PPS/Topics/commenting.html" alt="commenting etiquette">generic ones</a> if you don't find anything.
 </p> 
 <p>That's said you're good to go. Now if you are interested in the continuation of these articles, please feel free to add my feed to your reader (if you don't know what RSS feeds are, inform yourself and add to your reader as many game dev blogs you find useful, it's a better way than
