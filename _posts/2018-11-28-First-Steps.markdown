@@ -9,7 +9,7 @@ comments: true
 <center><img alt="your classic copyright free image" style="border-radius:50%;"  src="http://www.picpedia.org/highway-signs/images/reasonable-doubt.jpg" width="200px" height="200px" /></center>
 <br>
 <p> When taking the first step into the game development world, a lot of questions came to mind. </p>
-<blockquote>What language is the best? What engine? What are the component of a game?</blockquote>
+<h2>What language is the best? What engine? What are the component of a game?</h2>
 
 
 <p>These question full forums and social groups all over the internet, and countless of good answer as being give in time, the problem is, rarely these answer are definitive to solve a single person problem.
