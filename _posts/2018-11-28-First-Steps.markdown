@@ -55,7 +55,7 @@ My suggestion? Godot.  It has all of these qualities. And it's pretty intuitive 
 </p>
 
 <h2>The second question: and now... what do I do?</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Pong.png" alt="pong game screen"/>
+<img width="300px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Pong.png" alt="pong game screen"/>
 <p>
 	The usual suggestion would be, start with some easy, well known games: pong, breakout, space invaders, tris, etc. And this is usually a good advice, because in this way you'll learn some tricks that will help you in the future. But if you are like me it can be boring to just follow some tutorial and get these games done. So my suggestion is: always put some of you into this projects. </p>
 <p>
@@ -68,7 +68,8 @@ My suggestion? Godot.  It has all of these qualities. And it's pretty intuitive 
 <h2>A last advice: If you can, comment it</h2>
 <p>
 	This becomes more obvious the more you program/create a game. The need of comments is ofter undervalued. Take your time to write observations for every new things you do. 
-	Unless his purpose is obvious like ... int health = 10 //silly comment about assigning 10 points to health...
+	Unless his purpose is obvious like 
+``` int health = 10 //silly comment about assigning 10 points to health ```
 	and create a TODO list of things to do. Try to reduce your task to the atom, the littler the task, the more you'll feel accomplished after finishing four or five a day. You can find good examples of your language/engine comment etiquette online, or you can use <a href="https://www.cs.utah.edu/~germain/PPS/Topics/commenting.html" alt="commenting etiquette">generic ones</a> if you don't find anything.
 </p> 
 <p>That's said you're good to go. Now if you are interested in the continuation of these articles, please feel free to add my feed to your reader (if you don't know what RSS feeds are, inform yourself and add to your reader as many game dev blogs you find useful, it's a better way than
