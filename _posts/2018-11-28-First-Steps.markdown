@@ -32,7 +32,7 @@ comments: true
 </p>
 <h2>The first question is: Engine or Programming language?</h2>
 
-<center><img src="images/2018-11-28/languageVSeditor.png" alt="engine vs programming language" /></center>
+<center><img src="../images/2018-11-28/languageVSeditor.png" alt="engine vs programming language" /></center>
 
 <p>
 	This depends entirely on you. You'll always need some programming skills or someone who knows how to script in the future, so a smattering of programming will always serve you, the language is not important, the majority 
