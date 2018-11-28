@@ -7,7 +7,7 @@ comments: true
 ---
 
 <center><img alt="your classic copyright free image" style="border-radius:50%;"  src="http://www.picpedia.org/highway-signs/images/reasonable-doubt.jpg" width="200px" height="200px" /></center>
-
+<br/>
 <p> When taking the first step into the game development world, a lot of questions came to mind. </p>
 <blockquote>What language is the best? What engine? What are the component of a game?</blockquote>
 
@@ -33,7 +33,7 @@ comments: true
 <h2>The first question is: Engine or Programming language?</h2>
 
 <center><img src="/images/post/2018-11-28/languageVSeditor.png" alt="engine vs programming language" /></center>
-
+<br/>
 <p>
 	This depends entirely on you. You'll always need some programming skills or someone who knows how to script in the future, so a smattering of programming will always serve you, the language is not important, the majority 
 	of languages share a common ground. Anyway if you want only to create games choose the engine and forget the programming, you'll have time to learn it. Also choose carefully your engine and check some important things: 
@@ -57,10 +57,10 @@ My suggestion? Godot.  It has all of these qualities. And it's pretty intuitive 
 <h2>The second question: and now... what do I do?</h2>
 
 <p>
-	The usual suggestion would be, start with some easy, well known games: pong, breakout, space invaders, tris, etc. And this is usually a good advice, because in this way you'll learn some tricks that will help you in the future. But if you are like me
+	The usual suggestion would be, start with some easy, well known games: pong, breakout, space invaders, tris, etc. And this is usually a good advice, because in this way you'll learn some tricks that will help you in the future. But if you are like me <br/>
 	it can be boring to just follow some tutorial and get these games done. So my suggestion is: always put some of you into this projects. Pong is boring? Put an explosive bomb instead of the classic ball that gets warm  the more the players bounce it
 	(you can just make it more red every time it bounce and explode on the paddle once it gets completely red, destroying it and giving the adversary a point). Space invaders is plain and easy and xenophobic (poor aliens, what did they do to deserve such a fate?) change
-	the aliens with something you hate and have double the fun destroying it. It take just this to make it funnier. Just don't start with a 3D MMO or a vast metroidvania, there's plenty of reasons why to be found on the internet.
+	the aliens with something you hate and have double the fun destroying it. <br/>It take just this to make it funnier. Just don't start with a 3D MMO or a vast metroidvania, there's plenty of reasons why to be found on the internet.
 </p>
 <h2>A last advice: If you can, comment it</h2>
 <p>
