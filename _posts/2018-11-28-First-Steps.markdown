@@ -1,7 +1,7 @@
 ---
 title: First steps
 layout: post
-date: '2018-11-28 12:05:10’
+date: '2018-11-28 12:05:10'
 categories: [game_dev, lua, love2D]
 comments: true
 ---
