@@ -47,7 +47,7 @@ comments: true
 	</ul>
 </p>
 <p>
-My suggestion? Godot.  It has all of these qualities. And it's pretty intuitive to learn, also you can script in it and learn the basis of programming while creating your fist game.
+	My suggestion? <a href="https://godotengine.org" >Godot</a>.  It has all of these qualities. And it's pretty intuitive to learn, also you can script in it and learn the basis of programming while creating your fist game.
 </p>
 <p>
 	If instead you want to learn how to program or you know how to do it, just search "game framework for x language" (e.s.: game framework for c++ language) on your favorite search engine and follow the same ideas expressed for the engine search. My suggestion? If you already know a 
@@ -74,7 +74,7 @@ My suggestion? Godot.  It has all of these qualities. And it's pretty intuitive 
 ```
 {: .language-lua}
 <p>
-	and create a TODO list of things to do. Try to reduce your task to the atom, the littler the task, the more you'll feel accomplished after finishing four or five a day. You can find good examples of your language/engine comment etiquette online, or you can use <a href="https://www.cs.utah.edu/~germain/PPS/Topics/commenting.html" alt="commenting etiquette">generic ones</a> if you don't find anything.
+	and create a TODO list of things to do. Try to reduce your task to the atom, the littler the task, the more you'll feel accomplished after finishing four or five a day. You can find good examples of your language/engine comment etiquette online, or you can use <a href="https://www.cs.utah.edu/~germain/PPS/Topics/commenting.html">generic ones</a> if you don't find anything.
 </p> 
 <p>That's said you're good to go. Now if you are interested in the continuation of these articles, please feel free to add my feed to your reader (if you don't know what RSS feeds are, inform yourself and add to your reader as many game dev blogs you find useful, it's a better way than
-Facebook to learn something from this world). Also notice that <a href="https://github.com/sagana/Bummer" alt="bummer GitHub link">Bummer</a>, my first game in Lua+Love2D is being developed in this moment, and you can follow the progression of it and help with the correction of bugs and with your suggestions directly on GitHub :)</p>
+Facebook to learn something from this world). Also notice that <a href="https://github.com/sagana/Bummer">Bummer</a>, my first game in Lua+Love2D is being developed in this moment, and you can follow the progression of it and help with the correction of bugs and with your suggestions directly on GitHub :)</p>
