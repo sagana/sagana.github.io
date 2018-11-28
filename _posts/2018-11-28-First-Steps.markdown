@@ -31,6 +31,9 @@ comments: true
 	The human brain needs gratification and embarking in long difficult projects can drag your passion and dedication down the drain. If you recognize yourself in the previous statements, you are in the right place.
 </p>
 <h2>The first question is: Engine or Programming language?</h2>
+
+<center><img src="images/2018-11-28/languageVSeditor.png" alt="engine vs programming language" /></center>
+
 <p>
 	This depends entirely on you. You'll always need some programming skills or someone who knows how to script in the future, so a smattering of programming will always serve you, the language is not important, the majority 
 	of languages share a common ground. Anyway if you want only to create games choose the engine and forget the programming, you'll have time to learn it. Also choose carefully your engine and check some important things: 
