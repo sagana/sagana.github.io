@@ -1,12 +1,12 @@
 ---
-title: First steps
+title: First Steps
 layout: post
 date: '2018-11-28 12:05:10'
 categories: [game_dev, lua, love2D]
 comments: true
 ---
 
-<center><img alt="love2D-logo" style="border-radius:50%;"  src="/images/post/2018-11-22/love.png" width="200px" height="200px" /></center>
+<center><img alt="your classic copyright free image" style="border-radius:50%;"  src="http://www.picpedia.org/highway-signs/images/reasonable-doubt.jpg" width="200px" height="200px" /></center>
 
 <p> When taking the first step into the game development world, a lot of questions came to mind. </p>
 <blockquote>What language is the best? What engine? What are the component of a game?</blockquote>
@@ -35,16 +35,18 @@ comments: true
 	This depends entirely on you. You'll always need some programming skills or someone who knows how to script in the future, so a smattering of programming will always serve you, the language is not important, the majority 
 	of languages share a common ground. Anyway if you want only to create games choose the engine and forget the programming, you'll have time to learn it. Also choose carefully your engine and check some important things: 
 	<ul>
-		<li>a): it is still active</li>
-		<li>a): it has a live community and lots of tutorials</li>
-		<li>a): it's Multiplatform  (please be gentle and export for Mac and linux, these communities are always eager to play indie games cause the old windows monopoly)</li>
-		<li>a): it doesn't require a nasa computer to run</li>
-		<li>a): you can use it to sell your games without paying (you'll always have time to change to a more professional paid engine later, all the engines are similar in the use so if you get accustomed to an easy one, it will be easier to work on a more complex one</li>
+		<li> it is still active</li>
+		<li> it has a live community and lots of tutorials</li>
+		<li> it's Multiplatform  (please be gentle and export for Mac and linux, these communities are always eager to play indie games cause the old windows monopoly)</li>
+		<li> it doesn't require a nasa computer to run</li>
+		<li> you can use it to sell your games without paying (you'll always have time to change to a more professional paid engine later, all the engines are similar in the use so if you get accustomed to an easy one, it will be easier to work on a more complex one</li>
 		<li>It's 2D or strongly support 2D (you want to start from 2D before embarking in 3D, at least until you understand the basic concepts of game developing )</li>
 	</ul>
+</p>
+<p>
 My suggestion? Godot.  It has all of these qualities. And it's pretty intuitive to learn, also you can script in it and learn the basis of programming while creating your fist game.
-
-
+</p>
+<p>
 	If instead you want to learn how to program or you know how to do it, just search "game framework for x language" (e.s.: game framework for c++ language) on your favorite search engine and follow the same ideas expressed for the engine search. My suggestion? If you already know a 
 	programming language, choose a framework based on that, if you don't know any, start with c++ and sdl if you want to learn everything, with Lua love2D if you want a fast start. 
 </p>
